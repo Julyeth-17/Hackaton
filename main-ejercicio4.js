@@ -11,6 +11,6 @@ function contarVocales(frase) {
     return contarVocales
 }
 
-    console.log(contarVocales('Este ejercicio me hizo mil decadas mas vieja'))
-
 contarVocales()
+
+console.log(contarVocales('Este ejercicio me hizo mil decadas mas vieja'))
